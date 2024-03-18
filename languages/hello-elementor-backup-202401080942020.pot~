@@ -1,0 +1,944 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: All Around\n"
+"POT-Creation-Date: 2023-09-27 01:48+0600\n"
+"PO-Revision-Date: 2021-12-06 22:21+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: author.php:212 functions.php:1493
+msgid "הוסף לעגלה שלך"
+msgstr ""
+
+#: blog-item.php:14
+msgid "ידי לע םסרופ:"
+msgstr ""
+
+#: blog-template.php:35
+msgid "All"
+msgstr ""
+
+#: blog-template.php:63 functions.php:970 includes/classes/class-ajax.php:286
+#: template-reviews.php:89
+msgid "Sorry, no review found."
+msgstr ""
+
+#: blog-template.php:77 includes/classes/class-ajax.php:296
+#: template-reviews.php:104 uses-template.php:81
+msgid "Previous"
+msgstr ""
+
+#: blog-template.php:78 includes/classes/class-ajax.php:297
+#: template-reviews.php:105 uses-template.php:82
+msgid "Next"
+msgstr ""
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "One Response"
+msgstr ""
+
+#: comments.php:32
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Response"
+msgid_plural "%1$s Responses"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:36 includes/settings/settings-header.php:23
+#: includes/settings/settings-header.php:43
+msgid "Header"
+msgstr ""
+
+#: functions.php:37 includes/settings/settings-footer.php:21
+#: includes/settings/settings-footer.php:42
+msgid "Footer"
+msgstr ""
+
+#: functions.php:178
+msgid "Saving"
+msgstr ""
+
+#: functions.php:179
+msgid "Can't be less then"
+msgstr ""
+
+#: functions.php:180
+msgid "This field is required"
+msgstr ""
+
+#: functions.php:181
+msgid "Can't be more then"
+msgstr ""
+
+#: functions.php:182 functions.php:1377
+msgid "Custom Quantity"
+msgstr ""
+
+#: functions.php:310 functions.php:329
+msgid "Choose an option"
+msgstr ""
+
+#: functions.php:588
+msgid "Save Percentage Info"
+msgstr ""
+
+#: functions.php:692
+msgid "Next: upload artwork"
+msgstr ""
+
+#: functions.php:912
+msgid "םישמתשמ בושמ"
+msgstr ""
+
+#: functions.php:928 includes/classes/class-ajax.php:69
+msgid "Anonymous"
+msgstr ""
+
+#: functions.php:1183
+msgid "הקובץ הועלה בהצלחה!"
+msgstr ""
+
+#: functions.php:1200 functions.php:1222 functions.php:1245 functions.php:1248
+#: includes/settings/settings-footer.php:391
+#: includes/settings/settings-header.php:444
+#: woocommerce/cart/cart-item-data.php:31
+msgid "Color"
+msgstr ""
+
+#: functions.php:1206 functions.php:1251 woocommerce/cart/cart-item-data.php:29
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "Size"
+msgstr ""
+
+#: functions.php:1262
+msgid "Art Position"
+msgstr ""
+
+#: functions.php:1275
+msgid "Attachment"
+msgstr ""
+
+#: functions.php:1287
+msgid "Additional Attachment"
+msgstr ""
+
+#: functions.php:1292
+msgid "Instruction Note"
+msgstr ""
+
+#: functions.php:1345
+msgid "Select a Color"
+msgstr ""
+
+#: functions.php:1371 woocommerce/single-product/add-to-cart/variable.php:46
+msgid "Select a Quantity"
+msgstr ""
+
+#: functions.php:1429 includes/classes/class-ajax.php:117
+msgid "Shirt"
+msgstr ""
+
+#: functions.php:1430 includes/classes/class-ajax.php:118
+msgid "Total Shirts"
+msgstr ""
+
+#: functions.php:1512
+msgid "Adult Size Chart"
+msgstr ""
+
+#: functions.php:1515
+msgid "Children Size Chart"
+msgstr ""
+
+#: functions.php:1538
+msgid "Select sizes"
+msgstr ""
+
+#: functions.php:1550
+msgid "מבוגרים"
+msgstr ""
+
+#: functions.php:1564
+msgid "ילדים"
+msgstr ""
+
+#: functions.php:1580
+msgid "Select Color"
+msgstr ""
+
+#: functions.php:1593
+msgid "בחר גדלים וכמות"
+msgstr ""
+
+#: functions.php:1594 functions.php:1709
+msgid "התמחור שלנו"
+msgstr ""
+
+#: functions.php:1601 functions.php:1712
+msgid "0"
+msgstr ""
+
+#: functions.php:1699
+msgid "Add"
+msgstr ""
+
+#: functions.php:1699
+msgid "more items to reduce your cost to"
+msgstr ""
+
+#: functions.php:1699
+msgid "per item"
+msgstr ""
+
+#: functions.php:1703
+msgid "Can't order more than 999"
+msgstr ""
+
+#: functions.php:1891 functions.php:1897
+msgid "הוסף להזמנה"
+msgstr ""
+
+#: functions.php:2010 template-parts/dynamic-footer.php:33
+#: template-parts/dynamic-header.php:36 template-parts/header.php:28
+msgid "Home"
+msgstr ""
+
+#: functions.php:2308
+msgid "חפשו פה…"
+msgstr ""
+
+#: functions.php:2337 search-page.php:53
+msgid "No Products"
+msgstr ""
+
+#: includes/admin-functions.php:38
+msgid ""
+"Hello theme is a lightweight starter theme designed to work perfectly with "
+"Elementor Page Builder plugin."
+msgstr ""
+
+#: includes/admin-functions.php:40 includes/customizer/elementor-upsell.php:65
+#: includes/customizer/elementor-upsell.php:68
+msgid "Activate Elementor"
+msgstr ""
+
+#: includes/admin-functions.php:47
+msgid ""
+"Hello theme is a lightweight starter theme. We recommend you use it together "
+"with Elementor Page Builder plugin, they work perfectly together!"
+msgstr ""
+
+#: includes/admin-functions.php:49 includes/customizer/elementor-upsell.php:48
+msgid "Install Elementor"
+msgstr ""
+
+#: includes/admin-functions.php:136
+msgid "Get Elementor"
+msgstr ""
+
+#: includes/admin-functions.php:140
+msgid "Thanks for installing Hello Theme!"
+msgstr ""
+
+#: includes/admin-functions.php:142
+msgid "Learn more about Elementor"
+msgstr ""
+
+#: includes/classes/class-ajax.php:185
+msgid "Sorry, we didn't find any products."
+msgstr ""
+
+#: includes/classes/class-ajax.php:186
+msgid "Show all Products"
+msgstr ""
+
+#: includes/classes/class-ajax.php:384
+msgid "There is no error, the file uploaded with success"
+msgstr ""
+
+#: includes/classes/class-ajax.php:385
+msgid "The uploaded file exceeds the upload_max_files in server settings"
+msgstr ""
+
+#: includes/classes/class-ajax.php:386
+msgid "The uploaded file exceeds the MAX_FILE_SIZE from html form"
+msgstr ""
+
+#: includes/classes/class-ajax.php:387
+msgid "The uploaded file uploaded only partially"
+msgstr ""
+
+#: includes/classes/class-ajax.php:388
+msgid "No file was uploaded"
+msgstr ""
+
+#: includes/classes/class-ajax.php:389
+msgid "Missing a temporary folder"
+msgstr ""
+
+#: includes/classes/class-ajax.php:390
+msgid "Failed to write file to disk"
+msgstr ""
+
+#: includes/classes/class-ajax.php:391
+msgid "A PHP extension stoped file to upload"
+msgstr ""
+
+#: includes/classes/class-ajax.php:419
+msgid "Wrong file format! please upload image type file only."
+msgstr ""
+
+#: includes/customizer-functions.php:19
+msgid "Header &amp; Footer"
+msgstr ""
+
+#: includes/customizer/elementor-upsell.php:49
+#: includes/customizer/elementor-upsell.php:66
+msgid "Create a cross-site Header and Footer using Elementor & Hello theme"
+msgstr ""
+
+#: includes/customizer/elementor-upsell.php:60
+msgid "Install &amp; Activate"
+msgstr ""
+
+#: includes/customizer/elementor-upsell.php:73
+#: includes/customizer/elementor-upsell.php:76
+msgid "Update Elementor"
+msgstr ""
+
+#: includes/customizer/elementor-upsell.php:74
+msgid ""
+"You need Elementor version 3.1.0 or above to create a cross-site Header and "
+"Footer."
+msgstr ""
+
+#: includes/customizer/elementor-upsell.php:81
+msgid "Set Your Header &amp; Footer"
+msgstr ""
+
+#: includes/customizer/elementor-upsell.php:82
+msgid "Create cross-site Header and Footer using Elementor & Hello theme"
+msgstr ""
+
+#: includes/customizer/elementor-upsell.php:84
+msgid "Start Here"
+msgstr ""
+
+#: includes/elementor-functions.php:207
+msgid "Hello Theme Header & Footer"
+msgstr ""
+
+#: includes/elementor-functions.php:208
+#, php-format
+msgid ""
+"Use this experiment to design header and footer using Elementor Site "
+"Settings. <a href=\"%s\" target=\"_blank\">Learn More</a>"
+msgstr ""
+
+#: includes/settings/settings-footer.php:50
+#: includes/settings/settings-footer.php:195
+#: includes/settings/settings-header.php:51
+#: includes/settings/settings-header.php:191
+msgid "Site Logo"
+msgstr ""
+
+#: includes/settings/settings-footer.php:52
+#: includes/settings/settings-footer.php:64
+#: includes/settings/settings-footer.php:76
+#: includes/settings/settings-footer.php:88
+#: includes/settings/settings-header.php:53
+#: includes/settings/settings-header.php:64
+#: includes/settings/settings-header.php:75 single-project.php:38 single.php:47
+msgid "Show"
+msgstr ""
+
+#: includes/settings/settings-footer.php:53
+#: includes/settings/settings-footer.php:65
+#: includes/settings/settings-footer.php:77
+#: includes/settings/settings-footer.php:89
+#: includes/settings/settings-header.php:54
+#: includes/settings/settings-header.php:65
+#: includes/settings/settings-header.php:76
+msgid "Hide"
+msgstr ""
+
+#: includes/settings/settings-footer.php:62
+#: includes/settings/settings-footer.php:295
+#: includes/settings/settings-header.php:62
+#: includes/settings/settings-header.php:298
+msgid "Tagline"
+msgstr ""
+
+#: includes/settings/settings-footer.php:74
+#: includes/settings/settings-footer.php:343
+#: includes/settings/settings-footer.php:371
+#: includes/settings/settings-header.php:73
+#: includes/settings/settings-header.php:353
+#: includes/settings/settings-header.php:388
+msgid "Menu"
+msgstr ""
+
+#: includes/settings/settings-footer.php:86
+#: includes/settings/settings-footer.php:415
+msgid "Copyright"
+msgstr ""
+
+#: includes/settings/settings-footer.php:98
+#: includes/settings/settings-header.php:84
+msgid "Layout"
+msgstr ""
+
+#: includes/settings/settings-footer.php:100
+#: includes/settings/settings-header.php:86
+msgid "Default"
+msgstr ""
+
+#: includes/settings/settings-footer.php:101
+#: includes/settings/settings-header.php:87
+msgid "Inverted"
+msgstr ""
+
+#: includes/settings/settings-footer.php:102
+#: includes/settings/settings-header.php:88
+msgid "Centered"
+msgstr ""
+
+#: includes/settings/settings-footer.php:113
+#: includes/settings/settings-header.php:99
+msgid "Width"
+msgstr ""
+
+#: includes/settings/settings-footer.php:115
+#: includes/settings/settings-header.php:101
+msgid "Boxed"
+msgstr ""
+
+#: includes/settings/settings-footer.php:116
+#: includes/settings/settings-header.php:102
+msgid "Full Width"
+msgstr ""
+
+#: includes/settings/settings-footer.php:127
+#: includes/settings/settings-header.php:113
+msgid "Content Width"
+msgstr ""
+
+#: includes/settings/settings-footer.php:155
+#: includes/settings/settings-header.php:141
+msgid "Gap"
+msgstr ""
+
+#: includes/settings/settings-footer.php:183
+#: includes/settings/settings-header.php:179
+msgid "Background"
+msgstr ""
+
+#: includes/settings/settings-footer.php:205
+#: includes/settings/settings-header.php:208
+msgid "Type"
+msgstr ""
+
+#: includes/settings/settings-footer.php:209
+#: includes/settings/settings-header.php:212
+msgid "Logo"
+msgstr ""
+
+#: includes/settings/settings-footer.php:210
+#: includes/settings/settings-header.php:213
+msgid "Title"
+msgstr ""
+
+#: includes/settings/settings-footer.php:220
+#: includes/settings/settings-header.php:223
+msgid "Logo Width"
+msgstr ""
+
+#: includes/settings/settings-footer.php:221
+#: includes/settings/settings-header.php:224
+#, php-format
+msgid "Go to <a href=\"%s\">Site Identity</a> to manage your site's logo"
+msgstr ""
+
+#: includes/settings/settings-footer.php:250
+#: includes/settings/settings-footer.php:305
+#: includes/settings/settings-footer.php:440
+#: includes/settings/settings-header.php:253
+#: includes/settings/settings-header.php:315
+msgid "Text Color"
+msgstr ""
+
+#: includes/settings/settings-footer.php:266
+#: includes/settings/settings-footer.php:320
+#: includes/settings/settings-footer.php:403
+#: includes/settings/settings-footer.php:455
+#: includes/settings/settings-header.php:269
+#: includes/settings/settings-header.php:330
+#: includes/settings/settings-header.php:473
+msgid "Typography"
+msgstr ""
+
+#: includes/settings/settings-footer.php:280
+#: includes/settings/settings-footer.php:332
+#: includes/settings/settings-header.php:270
+#: includes/settings/settings-header.php:283
+#: includes/settings/settings-header.php:342
+#, php-format
+msgid ""
+"Go to <a href=\"%s\">Site Identity</a> to manage your site's title and "
+"tagline"
+msgstr ""
+
+#: includes/settings/settings-footer.php:352
+#: includes/settings/settings-header.php:369
+msgid "— Select a Menu —"
+msgstr ""
+
+#: includes/settings/settings-footer.php:362
+#: includes/settings/settings-header.php:379
+msgid "There are no menus in your site."
+msgstr ""
+
+#: includes/settings/settings-footer.php:362
+#: includes/settings/settings-header.php:379
+#, php-format
+msgid "Go to <a href=\"%s\" target=\"_blank\">Menus screen</a> to create one."
+msgstr ""
+
+#: includes/settings/settings-footer.php:375
+#: includes/settings/settings-header.php:392
+#, php-format
+msgid ""
+"Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to manage your "
+"menus."
+msgstr ""
+
+#: includes/settings/settings-footer.php:383
+#: includes/settings/settings-header.php:400
+msgid "Changes will be reflected in the preview only after the page reloads."
+msgstr ""
+
+#: includes/settings/settings-footer.php:433
+msgid "All rights reserved"
+msgstr ""
+
+#: includes/settings/settings-footer.php:488
+msgid "Create a custom footer with multiple options"
+msgstr ""
+
+#: includes/settings/settings-footer.php:489
+#: includes/settings/settings-header.php:508
+msgid "Upgrade to Elementor Pro and enjoy free design and many more features"
+msgstr ""
+
+#: includes/settings/settings-footer.php:490
+#: includes/settings/settings-header.php:509
+msgid "Go Pro"
+msgstr ""
+
+#: includes/settings/settings-footer.php:504
+msgid "Create a custom footer with the new Theme Builder"
+msgstr ""
+
+#: includes/settings/settings-footer.php:505
+#: includes/settings/settings-header.php:524
+msgid ""
+"With the new Theme Builder you can jump directly into each part of your site"
+msgstr ""
+
+#: includes/settings/settings-footer.php:506
+msgid "Create Footer"
+msgstr ""
+
+#: includes/settings/settings-header.php:408
+msgid "Menu Layout"
+msgstr ""
+
+#: includes/settings/settings-header.php:412
+msgid "Horizontal"
+msgstr ""
+
+#: includes/settings/settings-header.php:413
+msgid "Dropdown"
+msgstr ""
+
+#: includes/settings/settings-header.php:424
+msgid "Breakpoint"
+msgstr ""
+
+#. translators: %d: Breakpoint number.
+#: includes/settings/settings-header.php:429
+#, php-format
+msgid "Mobile (< %dpx)"
+msgstr ""
+
+#. translators: %d: Breakpoint number.
+#: includes/settings/settings-header.php:431
+#, php-format
+msgid "Tablet (< %dpx)"
+msgstr ""
+
+#: includes/settings/settings-header.php:432
+msgid "None"
+msgstr ""
+
+#: includes/settings/settings-header.php:458
+msgid "Toggle Color"
+msgstr ""
+
+#: includes/settings/settings-header.php:507
+msgid "Create a custom header with multiple options"
+msgstr ""
+
+#: includes/settings/settings-header.php:523
+msgid "Create a custom header with the new Theme Builder"
+msgstr ""
+
+#: includes/settings/settings-header.php:525
+msgid "Create Header"
+msgstr ""
+
+#: product-configure.php:14
+msgid "ךלש תונמאה תוריצי תא הלעה"
+msgstr ""
+
+#: product-configure.php:15
+msgid "רושיאל הימדה ךל חלשנ הספדהל רבעמה ינפל"
+msgstr ""
+
+#: product-configure.php:21 product-configure.php:38
+msgid "ץבוק רחב"
+msgstr ""
+
+#: product-configure.php:32
+msgid "Click to upload additional file"
+msgstr ""
+
+#: product-configure.php:94
+msgid "הכרדה"
+msgstr ""
+
+#: product-configure.php:94
+msgid "ילנויצפוא"
+msgstr ""
+
+#: product-configure.php:95
+msgid "ךלש היחנהה תא בותכ"
+msgstr ""
+
+#: product-configure.php:101
+msgid "or,"
+msgstr ""
+
+#: product-configure.php:101
+msgid "skip this step & email artwork later."
+msgstr ""
+
+#: product-configure.php:103
+msgid "ךיִׁשמַהְל"
+msgstr ""
+
+#: projects-template.php:62 uses-template.php:68
+msgid "Sorry, no project found."
+msgstr ""
+
+#: single-project.php:24 single-project.php:43
+msgid "Back to Projects"
+msgstr ""
+
+#: single-project.php:26 single.php:35
+msgid "Posted by"
+msgstr ""
+
+#: single.php:29 single.php:54
+msgid "Back to blog"
+msgstr ""
+
+#: taxonomy-product_cat.php:21 woocommerce/content-single-product.php:63
+msgid "Reviews"
+msgstr ""
+
+#: taxonomy-product_cat.php:31
+msgid "All product Categories"
+msgstr ""
+
+#: template-parts/404.php:15
+msgid "The page can&rsquo;t be found."
+msgstr ""
+
+#: template-parts/404.php:19
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: template-parts/archive.php:46 template-parts/search.php:44
+#, php-format
+msgid "%s older"
+msgstr ""
+
+#: template-parts/archive.php:48 template-parts/search.php:46
+#, php-format
+msgid "newer %s"
+msgstr ""
+
+#: template-parts/search.php:16
+msgid "Search results for: "
+msgstr ""
+
+#: template-parts/search.php:32
+msgid "It seems we can't find what you're looking for."
+msgstr ""
+
+#: template-parts/single.php:26
+msgid "Tagged "
+msgstr ""
+
+#: template-reviews.php:38
+msgid "Total Reviews"
+msgstr ""
+
+#: template-reviews.php:56
+msgid "anonymous"
+msgstr ""
+
+#: templates/mobile-login-woocommerce/xoo-ml-external-otp-form.php:45
+#: templates/mobile-login-woocommerce/xoo-ml-otp-login-form.php:49
+msgid "Welcome"
+msgstr ""
+
+#: templates/mobile-login-woocommerce/xoo-ml-external-otp-form.php:50
+msgid "Change"
+msgstr ""
+
+#: templates/mobile-login-woocommerce/xoo-ml-external-otp-form.php:70
+msgid "Verify"
+msgstr ""
+
+#: templates/mobile-login-woocommerce/xoo-ml-external-otp-form.php:73
+msgid "Not received your code? Resend code"
+msgstr ""
+
+#: templates/mobile-login-woocommerce/xoo-ml-otp-login-form.php:26
+#: templates/mobile-login-woocommerce/xoo-ml-otp-login-form.php:68
+msgid "Or"
+msgstr ""
+
+#: templates/mobile-login-woocommerce/xoo-ml-otp-login-form.php:28
+#: templates/mobile-login-woocommerce/xoo-ml-otp-login-form.php:65
+msgid "Login with OTP"
+msgstr ""
+
+#: templates/mobile-login-woocommerce/xoo-ml-otp-login-form.php:70
+msgid "Login with Email & Password"
+msgstr ""
+
+#: templates/mobile-login-woocommerce/xoo-ml-phone-input.php:45
+msgid "Select Country Code"
+msgstr ""
+
+#: templates/mobile-login-woocommerce/xoo-ml-phone-input.php:59
+msgid "Country Code"
+msgstr ""
+
+#: templates/mobile-login-woocommerce/xoo-ml-phone-input.php:89
+msgid "Change?"
+msgstr ""
+
+#: uses-template.php:23
+msgid "ונלש רצומה תא שפח"
+msgstr ""
+
+#: woocommerce/cart/cart-item-data.php:27 woocommerce/cart/cart.php:32
+#: woocommerce/cart/cart.php:88
+#: woocommerce/single-product/add-to-cart/variable.php:33
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:51
+#, php-format
+msgid "Shipping to %s."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:52
+msgid "Change address"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:54
+msgid "Shipping options will be updated during checkout."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:62
+msgid "Shipping costs are calculated during checkout."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:64
+msgid "Enter your address to view shipping options."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:67
+msgid ""
+"There are no shipping options available. Please ensure that your address has "
+"been entered correctly, or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:70
+#, php-format
+msgid "No shipping options were found for %s."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:71
+msgid "Enter a different address"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:45
+msgid "חולשמ תוטיש"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:46
+msgid "Shipping"
+msgstr ""
+
+#. translators: %s location.
+#: woocommerce/cart/cart-totals.php:65
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:62
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:82
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:111
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart.php:77
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:124
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:145
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:145
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:145
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:150
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:24
+msgid "םייניב םוכס"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "קודבל"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:28
+msgid "תוינק ךשמה"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:30
+msgid "םילבקמ ונחנא"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:54
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:92
+msgid "Total"
+msgstr ""
+
+#: woocommerce/content-single-product.php:73
+msgid "Order Sample"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:36
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:44
+msgid "Select a Size"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:60
+msgid "Clear"
+msgstr ""
+
+#: woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "All Around"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A plain-vanilla & lightweight theme for Elementor page builder"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Mohammad Limon"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://elementor.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog Tempalte"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Project Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Search Page Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Reviews Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Uses Template"
+msgstr ""

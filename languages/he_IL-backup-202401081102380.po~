@@ -1,0 +1,924 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: All Around\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-27 01:48+0600\n"
+"PO-Revision-Date: 2024-01-08 11:02+0000\n"
+"Last-Translator: admin\n"
+"Language-Team: עִבְרִית\n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n==2 ? 1 : n>10 && n%10==0 ? 2 :"
+" 3);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#. HTML arrow
+#: template-parts/search.php:44 template-parts/archive.php:46
+#, php-format
+msgid "%s older"
+msgstr "%s מבוגר יותר"
+
+#. %s location.
+#: woocommerce/cart/cart-totals.php:65
+#, php-format
+msgid "(estimated for %s)"
+msgstr "(מוערך עבור: %s)"
+
+#: functions.php:1599 functions.php:1710
+msgid "0"
+msgstr ""
+
+#: includes/classes/class-ajax.php:391
+msgid "A PHP extension stoped file to upload"
+msgstr "סיומת PHP עצרה קובץ להעלאה"
+
+#. Description of the theme
+#, fuzzy
+#| msgid "A plain-vanilla & lightweight theme for Elementor page builder"
+msgid "A plain-vanilla &amp; lightweight theme for Elementor page builder"
+msgstr "ערכת נושא פשוטה וקלת משקל עבור בונה העמודים Elementor"
+
+#: includes/admin-functions.php:40 includes/customizer/elementor-upsell.php:65
+#: includes/customizer/elementor-upsell.php:68
+msgid "Activate Elementor"
+msgstr "הפעילי את Elementor"
+
+#: functions.php:1697
+msgid "Add"
+msgstr ""
+
+#: functions.php:1284
+msgid "Additional Attachment"
+msgstr "קובץ מצורף"
+
+#: functions.php:1510
+msgid "Adult Size Chart"
+msgstr ""
+
+#: blog-template.php:35
+msgid "All"
+msgstr "הכל"
+
+#. Name of the theme
+msgid "All Around"
+msgstr "מסביב"
+
+#: includes/settings/settings-footer.php:433
+msgid "All rights reserved"
+msgstr "כל הזכויות שמורות"
+
+#: functions.php:925 includes/classes/class-ajax.php:69
+msgid "Anonymous"
+msgstr "אנונימי"
+
+#: template-reviews.php:56
+msgid "anonymous"
+msgstr "אלמוני"
+
+#: woocommerce/cart/cart.php:146
+msgid "Apply coupon"
+msgstr "ממש קופון"
+
+#: functions.php:1259
+msgid "Art Position"
+msgstr "מיקום אמנותי"
+
+#: functions.php:1272
+msgid "Attachment"
+msgstr "קובץ מצורף"
+
+#: woocommerce/cart/cart.php:78
+msgid "Available on backorder"
+msgstr "זמין בהזמנה מראש"
+
+#: single.php:29 single.php:54
+msgid "Back to blog"
+msgstr "חזרה לבלוג"
+
+#: single-project.php:24 single-project.php:43
+#, fuzzy
+#| msgid "Back to blog"
+msgid "Back to Projects"
+msgstr "חזרה לבלוג"
+
+#: includes/settings/settings-header.php:179
+#: includes/settings/settings-footer.php:183
+msgid "Background"
+msgstr "רקע"
+
+#. Name of the template
+msgid "Blog Tempalte"
+msgstr "Blog Tempalte"
+
+#: includes/settings/settings-header.php:101
+#: includes/settings/settings-footer.php:115
+msgid "Boxed"
+msgstr "פריסת \"קופסה\" רוחב מוגדר"
+
+#: includes/settings/settings-header.php:424
+msgid "Breakpoint"
+msgstr "נקודת עצירה"
+
+#: functions.php:177
+msgid "Can't be less then"
+msgstr "כמות מינימלית לרכישה:"
+
+#: functions.php:179
+msgid "Can't be more then"
+msgstr "כמות מקסימלית לרכישה:"
+
+#: functions.php:1701
+#, fuzzy
+#| msgid "Can't be more then"
+msgid "Can't order more than 999"
+msgstr "כמות מקסימלית לרכישה:"
+
+#: includes/settings/settings-header.php:88
+#: includes/settings/settings-footer.php:102
+msgid "Centered"
+msgstr "ממורכז"
+
+#: templates/mobile-login-woocommerce/xoo-ml-phone-input.php:117
+msgid "Change?"
+msgstr ""
+
+#: includes/settings/settings-header.php:400
+#: includes/settings/settings-footer.php:383
+msgid "Changes will be reflected in the preview only after the page reloads."
+msgstr "שינויים ישתקפו בתצוגה המקדימה רק לאחר טעינת העמוד מחדש."
+
+#: functions.php:1513
+msgid "Children Size Chart"
+msgstr ""
+
+#: functions.php:308 functions.php:327
+msgid "Choose an option"
+msgstr "בחר אפשרות"
+
+#: woocommerce/single-product/add-to-cart/variable.php:60
+msgid "Clear"
+msgstr "נקה"
+
+#: product-configure.php:32
+msgid "Click to upload additional file"
+msgstr "לחץ כדי להעלות קובץ נוסף"
+
+#: functions.php:1197 functions.php:1219 functions.php:1242 functions.php:1245
+#: includes/settings/settings-header.php:444
+#: includes/settings/settings-footer.php:391
+#: woocommerce/cart/cart-item-data.php:31
+msgid "Color"
+msgstr "צבע"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "תגובות סגורות."
+
+#. 1: number of comments
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Response"
+msgid_plural "%1$s Responses"
+msgstr[0] "תגובה אחת"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "One Response"
+msgstr "תגובה אחת"
+
+#: includes/settings/settings-header.php:113
+#: includes/settings/settings-footer.php:127
+msgid "Content Width"
+msgstr "רוחב התוכן"
+
+#: includes/settings/settings-footer.php:86
+#: includes/settings/settings-footer.php:415
+msgid "Copyright"
+msgstr "זכויות יוצרים"
+
+#: templates/mobile-login-woocommerce/xoo-ml-phone-input.php:70
+msgid "Country Code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:146
+msgid "Coupon code"
+msgstr "קוד קופון"
+
+#: woocommerce/cart/cart.php:146
+msgid "Coupon:"
+msgstr "קופון:"
+
+#: includes/customizer/elementor-upsell.php:49
+#: includes/customizer/elementor-upsell.php:66
+msgid "Create a cross-site Header and Footer using Elementor & Hello theme"
+msgstr ""
+"יצירת כותרת עליונה וכותרת תחתונה בין אתרים באמצעות ערכת הנושא Elementor "
+"&Hello"
+
+#: includes/settings/settings-footer.php:488
+msgid "Create a custom footer with multiple options"
+msgstr "יצירת כותרת תחתונה מותאמת אישית עם אפשרויות מרובות"
+
+#: includes/settings/settings-footer.php:504
+msgid "Create a custom footer with the new Theme Builder"
+msgstr "יצירת כותרת תחתונה מותאמת אישית עם בונה ערכות הנושא החדש"
+
+#: includes/settings/settings-header.php:507
+msgid "Create a custom header with multiple options"
+msgstr "יצירת כותרת מותאמת אישית עם אפשרויות מרובות"
+
+#: includes/settings/settings-header.php:523
+msgid "Create a custom header with the new Theme Builder"
+msgstr "יצירת כותרת מותאמת אישית עם בונה ערכות הנושא החדש"
+
+#: includes/customizer/elementor-upsell.php:82
+msgid "Create cross-site Header and Footer using Elementor & Hello theme"
+msgstr ""
+"יצירת כותרת עליונה וכותרת תחתונה בין אתרים באמצעות ערכת הנושא Elementor "
+"&Hello"
+
+#: includes/settings/settings-footer.php:506
+msgid "Create Footer"
+msgstr "צור כותרת תחתונה"
+
+#: includes/settings/settings-header.php:525
+msgid "Create Header"
+msgstr "צור כותרת עליונה"
+
+#: includes/settings/settings-header.php:86
+#: includes/settings/settings-footer.php:100
+msgid "Default"
+msgstr "ברירת מחדל"
+
+#: includes/settings/settings-header.php:413
+msgid "Dropdown"
+msgstr "רשימה נפתחת"
+
+#: includes/classes/class-ajax.php:390
+msgid "Failed to write file to disk"
+msgstr "נכשלה בכתיבת קובץ בדיסק"
+
+#: functions.php:37 includes/settings/settings-footer.php:21
+#: includes/settings/settings-footer.php:42
+msgid "Footer"
+msgstr "פוטר"
+
+#: includes/settings/settings-header.php:102
+#: includes/settings/settings-footer.php:116
+msgid "Full Width"
+msgstr "רוחב מלא"
+
+#: includes/settings/settings-header.php:141
+#: includes/settings/settings-footer.php:155
+msgid "Gap"
+msgstr "הפסקה"
+
+#: includes/admin-functions.php:136
+msgid "Get Elementor"
+msgstr "קבל אלמנטור"
+
+#: includes/settings/settings-header.php:509
+#: includes/settings/settings-footer.php:490
+msgid "Go Pro"
+msgstr "שידרוג לפרו"
+
+#: includes/settings/settings-header.php:379
+#: includes/settings/settings-footer.php:362
+#, php-format
+msgid "Go to <a href=\"%s\" target=\"_blank\">Menus screen</a> to create one."
+msgstr ""
+"עבור אל <a href=\"%s\" target=\"_blank\">מסך תפריטים</a> כדי ליצור מסך כזה."
+
+#: includes/settings/settings-header.php:224
+#: includes/settings/settings-footer.php:221
+#, php-format
+msgid "Go to <a href=\"%s\">Site Identity</a> to manage your site's logo"
+msgstr "עבור אל <a href=\"%s\">זהות האתר</a> כדי לנהל את סמל האתר שלך"
+
+#: includes/settings/settings-header.php:270
+#: includes/settings/settings-header.php:283
+#: includes/settings/settings-header.php:342
+#: includes/settings/settings-footer.php:280
+#: includes/settings/settings-footer.php:332
+#, php-format
+msgid ""
+"Go to <a href=\"%s\">Site Identity</a> to manage your site's title and "
+"tagline"
+msgstr ""
+"עבור אל <a href=\"%s\">זהות האתר</a> כדי לנהל את כותרת האתר ואת שורת התיוגים "
+"שלך"
+
+#: includes/settings/settings-header.php:392
+#: includes/settings/settings-footer.php:375
+#, php-format
+msgid ""
+"Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to manage your "
+"menus."
+msgstr ""
+"עבור אל <a href=\"%s\" target=\"_blank\">המסך תפריטים</a> כדי לנהל את "
+"התפריטים שלך."
+
+#: functions.php:36 includes/settings/settings-header.php:23
+#: includes/settings/settings-header.php:43
+msgid "Header"
+msgstr "כותרת"
+
+#: includes/customizer-functions.php:19
+msgid "Header &amp; Footer"
+msgstr "כותרת עליונה וכותרת תחתונה"
+
+#: includes/elementor-functions.php:207
+msgid "Hello Theme Header & Footer"
+msgstr "שלום כותרת עליונה וכותרת תחתונה של ערכת נושא"
+
+#: includes/admin-functions.php:38
+msgid ""
+"Hello theme is a lightweight starter theme designed to work perfectly with "
+"Elementor Page Builder plugin."
+msgstr ""
+"ערכת הנושא Hello היא ערכת נושא למתחילים קלת משקל המיועדת לעבוד בצורה מושלמת "
+"עם תוסף Elementor Page Builder."
+
+#: includes/admin-functions.php:47
+msgid ""
+"Hello theme is a lightweight starter theme. We recommend you use it together "
+"with Elementor Page Builder plugin, they work perfectly together!"
+msgstr ""
+"ערכת הנושא Hello היא נושא למתחילים קל משקל. אנו ממליצים לך להשתמש בו יחד עם "
+"תוסף בונה דפים אלמנטור, הם עובדים בצורה מושלמת יחד!"
+
+#: includes/settings/settings-header.php:54
+#: includes/settings/settings-header.php:65
+#: includes/settings/settings-header.php:76
+#: includes/settings/settings-footer.php:53
+#: includes/settings/settings-footer.php:65
+#: includes/settings/settings-footer.php:77
+#: includes/settings/settings-footer.php:89
+msgid "Hide"
+msgstr "הסתר"
+
+#: functions.php:2006 template-parts/dynamic-header.php:36
+#: template-parts/dynamic-footer.php:33 template-parts/header.php:28
+msgid "Home"
+msgstr "דף הבית"
+
+#: includes/settings/settings-header.php:412
+msgid "Horizontal"
+msgstr "אופקי"
+
+#. Author URI of the theme
+msgid "https://elementor.com/"
+msgstr "‫https://elementor.com/"
+
+#: includes/customizer/elementor-upsell.php:60
+msgid "Install &amp; Activate"
+msgstr "התקן והפעל"
+
+#: includes/admin-functions.php:49 includes/customizer/elementor-upsell.php:48
+msgid "Install Elementor"
+msgstr "התקיני Elementor"
+
+#: functions.php:1289
+msgid "Instruction Note"
+msgstr "הערת הוראה"
+
+#: includes/settings/settings-header.php:87
+#: includes/settings/settings-footer.php:101
+msgid "Inverted"
+msgstr "הפוך"
+
+#: template-parts/404.php:19
+msgid "It looks like nothing was found at this location."
+msgstr "נראה כאילו שום דבר לא נמצא במיקום הזה."
+
+#: template-parts/search.php:32
+msgid "It seems we can't find what you're looking for."
+msgstr "נראה שאנחנו לא יכולים למצוא את מה שאתה מחפש."
+
+#: includes/settings/settings-header.php:84
+#: includes/settings/settings-footer.php:98
+msgid "Layout"
+msgstr "פריסה"
+
+#: includes/admin-functions.php:142
+msgid "Learn more about Elementor"
+msgstr "קבל מידע נוסף על אלמנטור"
+
+#: templates/mobile-login-woocommerce/xoo-ml-otp-login-form.php:73
+msgid "Login with Email & Password"
+msgstr ""
+
+#: templates/mobile-login-woocommerce/xoo-ml-otp-login-form.php:30
+#: templates/mobile-login-woocommerce/xoo-ml-otp-login-form.php:68
+msgid "Login with OTP"
+msgstr "לחצו להתחברות"
+
+#: includes/settings/settings-header.php:212
+#: includes/settings/settings-footer.php:209
+msgid "Logo"
+msgstr "לוגו"
+
+#: includes/settings/settings-header.php:223
+#: includes/settings/settings-footer.php:220
+msgid "Logo Width"
+msgstr "רוחב הלוגו"
+
+#: includes/settings/settings-header.php:73
+#: includes/settings/settings-header.php:353
+#: includes/settings/settings-header.php:388
+#: includes/settings/settings-footer.php:74
+#: includes/settings/settings-footer.php:343
+#: includes/settings/settings-footer.php:371
+msgid "Menu"
+msgstr "תפריט"
+
+#: includes/settings/settings-header.php:408
+msgid "Menu Layout"
+msgstr "פריסת תפריט"
+
+#: includes/classes/class-ajax.php:389
+msgid "Missing a temporary folder"
+msgstr "חסרה תיקיה זמנית"
+
+#. %d: Breakpoint number.
+#: includes/settings/settings-header.php:429
+msgid "Mobile (< %dpx)"
+msgstr "נייד (< %dpx)"
+
+#. Author of the theme
+msgid "Mohammad Limon"
+msgstr "מוחמד לימון"
+
+#: functions.php:1697
+msgid "more items to reduce your cost to"
+msgstr ""
+
+#. HTML arrow
+#: template-parts/search.php:46 template-parts/archive.php:48
+#, php-format
+msgid "newer %s"
+msgstr "%s חדשים יותר"
+
+#: template-reviews.php:105 uses-template.php:82 blog-template.php:78
+#: includes/classes/class-ajax.php:297
+msgid "Next"
+msgstr "הבא"
+
+#: functions.php:689
+msgid "Next: upload artwork"
+msgstr "הבא: העלאת גרפיקה"
+
+#: includes/classes/class-ajax.php:388
+msgid "No file was uploaded"
+msgstr "לא הועלה קובץ"
+
+#: includes/settings/settings-header.php:432
+msgid "None"
+msgstr "ללא"
+
+#: templates/mobile-login-woocommerce/xoo-ml-otp-login-form.php:28
+#: templates/mobile-login-woocommerce/xoo-ml-otp-login-form.php:71
+msgid "Or"
+msgstr ""
+
+#: product-configure.php:101
+msgid "or,"
+msgstr "או"
+
+#: woocommerce/content-single-product.php:73
+msgid "Order Sample"
+msgstr "דוגמה להזמנה"
+
+#: functions.php:1697
+msgid "per item"
+msgstr ""
+
+#: templates/mobile-login-woocommerce/xoo-ml-phone-input.php:41
+msgid "Phone"
+msgstr "טלפון"
+
+#: single-project.php:26 single.php:35
+msgid "Posted by"
+msgstr "פורסם על ידי"
+
+#: template-reviews.php:104 uses-template.php:81 blog-template.php:77
+#: includes/classes/class-ajax.php:296
+msgid "Previous"
+msgstr "הקודם"
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:83
+msgid "Price"
+msgstr "מחיר"
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:63
+msgid "Product"
+msgstr "מוצר"
+
+#. Name of the template
+msgid "Project Template"
+msgstr "תבנית פרוייקט"
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:89
+#: woocommerce/cart/cart-item-data.php:27
+#: woocommerce/single-product/add-to-cart/variable.php:33
+msgid "Quantity"
+msgstr "כמות"
+
+#: woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr "מומלצים עבורך"
+
+#: woocommerce/cart/cart.php:125
+msgid "Remove this item"
+msgstr "הסר פריט זה"
+
+#: taxonomy-product_cat.php:21 woocommerce/content-single-product.php:63
+msgid "Reviews"
+msgstr "חוות דעת"
+
+#. Name of the template
+msgid "Reviews Template"
+msgstr "תבנית ביקורות"
+
+#: functions.php:585
+msgid "Save Percentage Info"
+msgstr "אחוז שמירה ( מספר בלבד )"
+
+#: functions.php:176
+msgid "Saving"
+msgstr "שומר"
+
+#. Name of the template
+#, fuzzy
+#| msgid "Project Template"
+msgid "Search Page Template"
+msgstr "תבנית פרוייקט"
+
+#: template-parts/search.php:16
+msgid "Search results for: "
+msgstr "תוצאות חיפוש עבור: "
+
+#: functions.php:1342
+msgid "Select a Color"
+msgstr "בחר צבע"
+
+#: functions.php:1368 woocommerce/single-product/add-to-cart/variable.php:46
+msgid "Select a Quantity"
+msgstr "בחירת כמות (מחיר כולל מע\"מ)"
+
+#: woocommerce/single-product/add-to-cart/variable.php:44
+msgid "Select a Size"
+msgstr "בחירת מידה"
+
+#: functions.php:1578
+msgid "Select Color"
+msgstr "בחר צבע"
+
+#: templates/mobile-login-woocommerce/xoo-ml-phone-input.php:56
+#, fuzzy
+#| msgid "Select Color"
+msgid "Select Country Code"
+msgstr "בחר צבע"
+
+#: functions.php:1536
+msgid "Select sizes"
+msgstr "בחירת מידה"
+
+#: includes/customizer/elementor-upsell.php:81
+msgid "Set Your Header &amp; Footer"
+msgstr "הגדרת הכותרת העליונה והכותרת התחתונה שלך"
+
+#: woocommerce/cart/cart-totals.php:46
+msgid "Shipping"
+msgstr "משלוח"
+
+#: functions.php:1427 includes/classes/class-ajax.php:117
+msgid "Shirt"
+msgstr "חולצה"
+
+#: single-project.php:38 single.php:47 includes/settings/settings-header.php:53
+#: includes/settings/settings-header.php:64
+#: includes/settings/settings-header.php:75
+#: includes/settings/settings-footer.php:52
+#: includes/settings/settings-footer.php:64
+#: includes/settings/settings-footer.php:76
+#: includes/settings/settings-footer.php:88
+msgid "Show"
+msgstr "הצג"
+
+#: includes/classes/class-ajax.php:186
+msgid "Show all Products"
+msgstr "הצג את כל המוצרים"
+
+#: includes/settings/settings-header.php:51
+#: includes/settings/settings-header.php:191
+#: includes/settings/settings-footer.php:50
+#: includes/settings/settings-footer.php:195
+msgid "Site Logo"
+msgstr "לוגו האתר"
+
+#: functions.php:1203 functions.php:1248 woocommerce/cart/cart-item-data.php:29
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "Size"
+msgstr "מידה"
+
+#: product-configure.php:101
+msgid "skip this step & email artwork later."
+msgstr "דלגו על שלב זה ושלחו את הקובץ לאחר ההזמנה."
+
+#: projects-template.php:62 uses-template.php:68
+msgid "Sorry, no project found."
+msgstr "מצטער, לא נמצא פרויקט."
+
+#: template-reviews.php:89 blog-template.php:63
+#: includes/classes/class-ajax.php:286
+msgid "Sorry, no review found."
+msgstr "מצטער, לא נמצאה ביקורת."
+
+#: includes/classes/class-ajax.php:185
+msgid "Sorry, we didn't find any products."
+msgstr "מצטער, לא מצאנו מוצרים."
+
+#: includes/customizer/elementor-upsell.php:84
+msgid "Start Here"
+msgstr "התחל כאן"
+
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:112
+msgid "Subtotal"
+msgstr "סה\"כ"
+
+#. %d: Breakpoint number.
+#: includes/settings/settings-header.php:431
+msgid "Tablet (< %dpx)"
+msgstr "מחשב לוח (< %dpx)"
+
+#: template-parts/single.php:26
+msgid "Tagged "
+msgstr "תויג "
+
+#: includes/settings/settings-header.php:62
+#: includes/settings/settings-header.php:298
+#: includes/settings/settings-footer.php:62
+#: includes/settings/settings-footer.php:295
+msgid "Tagline"
+msgstr "שורת התג"
+
+#: includes/settings/settings-header.php:253
+#: includes/settings/settings-header.php:315
+#: includes/settings/settings-footer.php:250
+#: includes/settings/settings-footer.php:305
+#: includes/settings/settings-footer.php:440
+msgid "Text Color"
+msgstr "צבע טקסט"
+
+#: includes/admin-functions.php:140
+msgid "Thanks for installing Hello Theme!"
+msgstr "תודה שהתקנת את Hello Theme!"
+
+#: template-parts/404.php:15
+msgid "The page can&rsquo;t be found."
+msgstr "לא ניתן למצוא את הדף."
+
+#: includes/classes/class-ajax.php:386
+msgid "The uploaded file exceeds the MAX_FILE_SIZE from html form"
+msgstr "הקובץ שהועלה חורג MAX_FILE_SIZE מטופס HTML"
+
+#: includes/classes/class-ajax.php:385
+msgid "The uploaded file exceeds the upload_max_files in server settings"
+msgstr "הקובץ שהועלה חורג upload_max_files בהגדרות השרת"
+
+#: includes/classes/class-ajax.php:387
+msgid "The uploaded file uploaded only partially"
+msgstr "הקובץ שהועלה הועלה באופן חלקי בלבד"
+
+#: includes/settings/settings-header.php:379
+#: includes/settings/settings-footer.php:362
+msgid "There are no menus in your site."
+msgstr "אין תפריטים באתר שלך."
+
+#: includes/classes/class-ajax.php:384
+msgid "There is no error, the file uploaded with success"
+msgstr "אין שגיאה, הקובץ הועלה בהצלחה"
+
+#: functions.php:178
+msgid "This field is required"
+msgstr "שדה זה חובה"
+
+#: woocommerce/single-product/add-to-cart/variable.php:36
+msgid "This product is currently out of stock and unavailable."
+msgstr "מוצר זה חסר כרגע במלאי."
+
+#: includes/settings/settings-header.php:213
+#: includes/settings/settings-footer.php:210
+msgid "Title"
+msgstr "כותרת"
+
+#: includes/settings/settings-header.php:458
+msgid "Toggle Color"
+msgstr "החלף מצב צבע"
+
+#: woocommerce/checkout/review-order.php:92
+msgid "Total"
+msgstr "סה\"כ"
+
+#: template-reviews.php:38
+msgid "Total Reviews"
+msgstr "סה\"כ חוות דעת"
+
+#: functions.php:1428 includes/classes/class-ajax.php:118
+msgid "Total Shirts"
+msgstr "סה\"כ חוות דעת"
+
+#: includes/settings/settings-header.php:208
+#: includes/settings/settings-footer.php:205
+msgid "Type"
+msgstr "סוג"
+
+#: includes/settings/settings-header.php:269
+#: includes/settings/settings-header.php:330
+#: includes/settings/settings-header.php:473
+#: includes/settings/settings-footer.php:266
+#: includes/settings/settings-footer.php:320
+#: includes/settings/settings-footer.php:403
+#: includes/settings/settings-footer.php:455
+msgid "Typography"
+msgstr "טיפוגרפיה"
+
+#: woocommerce/cart/cart.php:151
+msgid "Update cart"
+msgstr "עדכן עגלה"
+
+#: includes/customizer/elementor-upsell.php:73
+#: includes/customizer/elementor-upsell.php:76
+msgid "Update Elementor"
+msgstr "עדכן רכיב"
+
+#: includes/settings/settings-header.php:508
+#: includes/settings/settings-footer.php:489
+msgid "Upgrade to Elementor Pro and enjoy free design and many more features"
+msgstr "שדרג ל-Elementor Pro ותיהנה מעיצוב חינמי ומתכונות רבות נוספות"
+
+#: includes/elementor-functions.php:208
+#, php-format
+msgid ""
+"Use this experiment to design header and footer using Elementor Site "
+"Settings. <a href=\"%s\" target=\"_blank\">Learn More</a>"
+msgstr ""
+"השתמש בניסוי זה כדי לעצב כותרת עליונה וכותרת תחתונה באמצעות הגדרות אתר "
+"Elementor. <a href=\"%s\" target=\"_blank\">למד עוד</a>"
+
+#. Name of the template
+msgid "Uses Template"
+msgstr "שימוש בתבנית"
+
+#: templates/mobile-login-woocommerce/xoo-ml-external-otp-form.php:45
+#: templates/mobile-login-woocommerce/xoo-ml-otp-login-form.php:51
+msgid "Welcome"
+msgstr "ברוך הבא"
+
+#: includes/settings/settings-header.php:99
+#: includes/settings/settings-footer.php:113
+msgid "Width"
+msgstr "רוחב"
+
+#: includes/settings/settings-header.php:524
+#: includes/settings/settings-footer.php:505
+msgid ""
+"With the new Theme Builder you can jump directly into each part of your site"
+msgstr "עם בונה ערכות הנושא החדש אתה יכול לקפוץ ישירות לכל חלק של האתר שלך"
+
+#: includes/classes/class-ajax.php:419
+msgid "Wrong file format! please upload image type file only."
+msgstr "תבנית קובץ שגויה! נא העלה קובץ סוג תמונה בלבד."
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "עליך להתחבר על מנת לשלם."
+
+#: includes/customizer/elementor-upsell.php:74
+msgid ""
+"You need Elementor version 3.1.0 or above to create a cross-site Header and "
+"Footer."
+msgstr ""
+"דרושה לך גירסה 3.1.0 ומעלה כדי ליצור כותרת עליונה וכותרת תחתונה בין אתרים."
+
+#: woocommerce/checkout/form-checkout.php:54
+msgid "Your order"
+msgstr "ההזמנה שלך"
+
+#: templates/mobile-login-woocommerce/xoo-ml-otp-login-form.php:57
+msgid "אנא התחבר על ידי הזנת מספ הטלפון שלך והזנת הקוד שנשלח לכם"
+msgstr ""
+
+#: functions.php:1591
+msgid "בחר גדלים וכמות"
+msgstr ""
+
+#: functions.php:1887 functions.php:1893
+msgid "הוסף להזמנה"
+msgstr ""
+
+#: functions.php:1491 author.php:212
+msgid "הוסף לעגלה שלך"
+msgstr ""
+
+#: product-configure.php:94
+msgid "הכרדה"
+msgstr "הערות להזמנה"
+
+#: functions.php:1180
+msgid "הקובץ הועלה בהצלחה!"
+msgstr "הקובץ הועלה בהצלחה!"
+
+#: functions.php:1374
+msgid "הקלידו כמות…"
+msgstr ""
+
+#: functions.php:1592 functions.php:1707
+msgid "התמחור שלנו"
+msgstr ""
+
+#: uses-template.php:23
+msgid "ונלש רצומה תא שפח"
+msgstr "חפש את המוצר שלנו"
+
+#: woocommerce/cart/cart-totals.php:45
+msgid "חולשמ תוטיש"
+msgstr "שיטות משלוח"
+
+#: blog-item.php:14
+msgid "ידי לע םסרופ:"
+msgstr "פורסם על ידי:"
+
+#: functions.php:1562
+msgid "ילדים"
+msgstr ""
+
+#: product-configure.php:94
+msgid "ילנויצפוא"
+msgstr "אופציונלי"
+
+#: product-configure.php:103
+msgid "ךיִׁשמַהְל"
+msgstr "לשלב הבא"
+
+#: product-configure.php:95
+msgid "ךלש היחנהה תא בותכ"
+msgstr "כל הערה שתרצו להוסיף לגבי ההזמנה..."
+
+#: product-configure.php:14
+msgid "ךלש תונמאה תוריצי תא הלעה"
+msgstr "העלו את הקובץ שתרצו שנדפיס על המוצר"
+
+#: woocommerce/cart/proceed-to-checkout-button.php:24
+msgid "םייניב םוכס"
+msgstr "סכום ביניים"
+
+#: woocommerce/cart/proceed-to-checkout-button.php:30
+msgid "םילבקמ ונחנא"
+msgstr "אפשרויות תשלום"
+
+#: functions.php:909
+msgid "םישמתשמ בושמ"
+msgstr "ביקורת משתמשים"
+
+#: functions.php:1548
+msgid "מבוגרים"
+msgstr ""
+
+#: product-configure.php:21 product-configure.php:38
+msgid "ץבוק רחב"
+msgstr "בחר קובץ"
+
+#: woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "קודבל"
+msgstr "לתשלום"
+
+#: product-configure.php:15
+msgid "רושיאל הימדה ךל חלשנ הספדהל רבעמה ינפל"
+msgstr "לאחר ביצוע ההזמנה, ועד 24 שעות, תישלח אליך הדמיה לאימייל :) "
+
+#: woocommerce/cart/proceed-to-checkout-button.php:28
+msgid "תוינק ךשמה"
+msgstr "המשך קניות"
+
+#: includes/settings/settings-header.php:369
+#: includes/settings/settings-footer.php:352
+msgid "— Select a Menu —"
+msgstr "— בחר תפריט —"
