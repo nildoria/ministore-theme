@@ -226,13 +226,23 @@
       }
 
       var intotal = val * item_price;
+      
       //intotal = Math.round(intotal);
 
       if (intotal % 1 != 0) {
         intotal = intotal.toFixed(1);
       }
 
+      var keepTotalOriginal = intotal;
+
       intotal = numberWithCommas(intotal);
+
+      var form = $(e.target).closest("form");
+
+      console.log(form.find("input[name='ml_item_price']"));
+      form.find("input[name='ml_item_price']").val(item_price);
+      form.find("input[name='ml_total_price']").val(keepTotalOriginal);
+      form.find("input[name='ml_quantity']").val(val);
 
       if (min <= val && val <= max) {
         group.removeClass("alarnd--hide-price");
@@ -982,12 +992,12 @@
         // $('.alarnd_view_select').trigger('click');
 
         if (
-          $(this).closest(".product-item").find(".ml_trigger_details")
+          $(this).closest(".product-item").find(".alarnd_view_pricing_cb")
             .length !== 0
         ) {
           $(this)
             .closest(".product-item")
-            .find(".ml_trigger_details")
+            .find(".alarnd_view_pricing_cb")
             .trigger("click");
         }
 

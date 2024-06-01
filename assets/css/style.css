@@ -4866,4 +4866,7 @@ body.single-project main#main {
     min-width: 99%;
     padding: 15px;
   }
+.pricingDescSteps .modal-bottom-btn button.alarnd_trigger_details_modal {
+    white-space: normal !important;
+}
 }
